@@ -2,7 +2,7 @@
 
 Create by: https://github.com/JGhignatti/jv-weather.git
 
--Modify api key openwaethermap.org
+-Modify api key http://openwaethermap.org
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
